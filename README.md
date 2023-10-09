@@ -1,4 +1,4 @@
-## My name  is Serkan, welcome to my page  
+## Connect with me 
   
 
 <a href="https://github.com/https://github.com/angun2serkan" target="_blank">
@@ -14,16 +14,11 @@
 
 
 
-### Glad to see you here!  
+### Hola!  
 I’m a full-stack developer, work for Ecosepend who is Trustly Company in Turkey Izmir . I want to be serial entrepreneur and nowadays I am developing one of my web apps as a side hustle. I am always open to DMs from Linkedin or Instagram to meet, talk about life, tech, money and start new business.   
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 🔭 I’m currently working on web app for university students. Tech-Stack: Node.js, React.js, MongoDb, Express.js, Cloudinary  
   
 
@@ -31,18 +26,10 @@ I’m a full-stack developer, work for Ecosepend who is Trustly Company in Turke
   
 
 - ❓ Interests are Finance, Sports industry, Social Media  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
-## Languages and Tools  
+## Tech Stack  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
